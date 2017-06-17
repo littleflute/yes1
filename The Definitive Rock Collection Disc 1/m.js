@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Time and a Word.mp3";		
+f[2]	= "02 Starship Trooper- Life Seeker-Disillusion-W¨¹rm.mp3";		
+f[3]	= "03 Yours Is No Disgrace.mp3";		
+f[4]	= "04 I've Seen All Good People- Your Move-All Good People.mp3";		
+f[5]	= "05 Roundabout.mp3";		
+f[6]	= "06 Long Distance Runaround.mp3";		
+f[7]	= "07 Heart of the Sunrise.mp3";		
+f[8]	= "08 South Side of the Sky.mp3";		
+f[9]	= "09 And You and I- Cord of Life-Eclipse-The Preacher the Teacher-Apocalypse.mp3";		
+f[10]	= "10 America [Edit].mp3";		
+f[11]	= "11 Wonderous Stories.mp3";		
