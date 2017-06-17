@@ -1,7 +1,7 @@
 var f = [];				
 f[0]	= "v0.0.9";			
 f[1]	= "01 Time and a Word.mp3";		
-f[2]	= "02 Starship Trooper- Life Seeker-Disillusion-W¨¹rm.mp3";		
+f[2]	= "02 Starship Trooper- Life Seeker-Disillusion-Wurm.mp3";		
 f[3]	= "03 Yours Is No Disgrace.mp3";		
 f[4]	= "04 I've Seen All Good People- Your Move-All Good People.mp3";		
 f[5]	= "05 Roundabout.mp3";		
