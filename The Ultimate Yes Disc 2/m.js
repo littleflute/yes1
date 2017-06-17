@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Siberian Khatru.mp3";		
+f[2]	= "02 Soon [New Edit].mp3";		
+f[3]	= "03 Going for the One.mp3";		
+f[4]	= "04 Don't Kill the Whale.mp3";		
+f[5]	= "05 Tempus Fugit.mp3";		
+f[6]	= "06 Owner of a Lonely Heart.mp3";		
+f[7]	= "07 Leave It.mp3";		
+f[8]	= "08 It Can Happen [Single Edit].mp3";		
+f[9]	= "09 Rhythm of Love.mp3";		
+f[10]	= "10 Big Generator [Remix].mp3";		
+f[11]	= "11 Lift Me Up.mp3";		
+f[12]	= "12 The Calling [Single Edit].mp3";		
+f[13]	= "13 Open Your Eyes.mp3";		
+f[14]	= "14 Homeworld (The Ladder) [Radio Edit].mp3";		
+f[15]	= "15 Magnification.mp3";		
